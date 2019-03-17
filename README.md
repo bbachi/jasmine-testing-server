@@ -1,2 +1,5 @@
 # jasmine-testing-server
-This is jasmine testing on the server
+
+## Download dependencies
+
+``npm install``
